@@ -1,6 +1,6 @@
 package com.nerdzport.com.service;
 
-import com.nerdzport.com.bookstore.controller.BookDto;
+import com.nerdzport.com.bookstore.dto.BookDto;
 import com.nerdzport.com.bookstore.model.Book;
 import com.nerdzport.com.bookstore.repository.BookRepository;
 import com.nerdzport.com.bookstore.service.BookService;
