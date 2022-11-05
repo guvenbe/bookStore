@@ -1,16 +1,11 @@
 package com.nerdzport.com.bookstore.dto;
 
-import com.sun.istack.NotNull;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
 import java.util.UUID;
 
 @Data
